@@ -1,0 +1,25 @@
+transaction_id,date,product,category,quantity,unit_price,total_sales
+TX001,2026-01-03,Milk,Dairy,5.0,2.5,12.5
+TX002,2026-01-04,Bread,Bakery,10.0,1.5,15.0
+TX003,2026-01-05,Rice,Grocery,4.0,5.0,20.0
+TX004,2026-01-06,Eggs,Dairy,6.0,3.0,18.0
+TX005,2026-01-08,Cooking Oil,Grocery,3.0,8.0,24.0
+TX006,2026-01-10,Milk,Dairy,8.0,2.5,20.0
+TX007,2026-01-12,Bread,Bakery,12.0,1.5,18.0
+TX008,2026-01-14,Sugar,Grocery,5.0,3.0,15.0
+TX009,2026-01-16,Eggs,Dairy,4.0,3.0,12.0
+TX010,2026-01-18,Rice,Grocery,6.0,5.0,30.0
+TX011,2026-02-02,Milk,Dairy,7.0,2.5,17.5
+TX012,2026-02-04,Bread,Bakery,9.0,1.5,13.5
+TX013,2026-02-07,Cooking Oil,Grocery,4.0,8.0,32.0
+TX014,2026-02-09,Sugar,Grocery,8.0,3.0,24.0
+TX015,2026-02-12,Eggs,Dairy,5.0,3.0,15.0
+TX016,2026-02-14,Rice,Grocery,3.0,5.0,15.0
+TX017,2026-02-16,Bread,Bakery,15.0,1.5,22.5
+TX018,2026-02-18,Milk,Dairy,6.0,2.5,15.0
+TX019,2026-03-02,Cooking Oil,Grocery,2.0,8.0,16.0
+TX021,2026-03-06,Rice,Grocery,5.0,5.0,25.0
+TX023,2026-03-10,Bread,Bakery,11.0,1.5,16.5
+TX024,2026-03-12,Milk,Dairy,4.0,2.5,10.0
+TX025,2026-03-14,Cooking Oil,Grocery,5.0,8.0,40.0
+TX026,2026-03-16,Sugar,Grocery,6.0,3.0,18.0
